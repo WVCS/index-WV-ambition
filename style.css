@@ -32,7 +32,11 @@ li {
   padding: 15px;
   float: right;
 }
+li:hover {
+  background-color: gold;
+}
 
-table, th, td {
-  border: 1px solid;
+a {
+  text-decoration: none;
+  color: salmon;
 }
